@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[
+      {
+    "name": "x-snc-ex-sample-fluent",
+    "version": "0.0.1",
+    "description": "sample fluent app",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "2.0.1",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.0.1"
+    }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_ex_sample_fl/x-snc-ex-sample-fluent/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>jjlim</sys_created_by>
+        <sys_created_on>2024-10-28 02:06:02</sys_created_on>
+        <sys_id>f1ff358d936196907e27b9697bba10e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ex_sample_fl/x-snc-ex-sample-fluent/0.0.1/package.json</sys_name>
+        <sys_package display_value="ex sample fluent" source="x_snc_ex_sample_fl">85c5d88576084aa09e9a5f7970bc3197</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ex sample fluent">85c5d88576084aa09e9a5f7970bc3197</sys_scope>
+        <sys_update_name>sys_module_f1ff358d936196907e27b9697bba10e8</sys_update_name>
+        <sys_updated_by>jjlim</sys_updated_by>
+        <sys_updated_on>2024-10-28 02:06:02</sys_updated_on>
+    </sys_module>
+</record_update>
